@@ -1,23 +1,18 @@
-<a href="https://github.com/asger-finding#gh-dark-mode-only">
+<a href="https://github.com/kamarov-therussiantank#animated-text-dark">
   <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-dark.svg"/>
 </a>
-<a href="https://github.com/asger-finding#gh-light-mode-only">
+<a href="https://github.com/kamaroc-therussiantank#animated-text-light">
   <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-light.svg"/>
 </a>
 
-### Hi there 👋
 
-<!--
-**kamarov-therussiantank/kamarov-therussiantank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Kamarov, a Code Enthusiast in the Making!
 
-Here are some ideas to get you started:
+**Coding Explorer:**
+Embarking on my coding journey, I'm on a mission to unlock the secrets of programming. While I may not be a coding maestro just yet, I'm passionate about learning and embracing the challenges that come with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Crafting Fun Code:**
+I find joy in turning lines of code into a canvas for fun and creativity. Whether it's adding humor to scripts, making quirky modifications, or dreaming up amusing features, I believe coding should be an enjoyable adventure.
+
+**Learning Every Day:**
+While I'm not a coding expert (yet!), every day is a new opportunity to learn and grow.
