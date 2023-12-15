@@ -14,16 +14,16 @@
     </path>
     <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#e75480" font-size="20" dominant-baseline="middle" x="0%" text-anchor="start">
         <textPath xlink:href="#path0">
-            Coffee?...
+            I like to wear Ushanka
         </textPath>
     </text>
 
     <path id="path1">
-        <animate id="d1" attributeName="d" begin="d0.end" dur="1000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
+        <animate id="d1" attributeName="d" begin="d0.end" dur="3000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
     <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#e75480" font-size="20" dominant-baseline="middle" x="0%" text-anchor="start">
         <textPath xlink:href="#path1">
-            or Coffee?
+            oh wait I am one :)
         </textPath>
     </text>
 
