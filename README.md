@@ -15,4 +15,4 @@ I find joy in turning lines of code into a canvas for fun and creativity. Whethe
 While I'm not a coding expert (yet!), every day is a new opportunity to learn and grow.
 
 ## Overview
-[![Kamarovs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamarov-therussiantank)](https://github.com/kamarov-therussiantank/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamarov-therussiantank&theme=monocai&show_icons=true)
