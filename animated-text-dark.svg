@@ -15,16 +15,16 @@
     </path>
     <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#C9D1D9" font-size="32" dominant-baseline="middle" x="0%" text-anchor="start">
         <textPath xlink:href="#path0">
-            I'm Kamarov
+            Hey, I'm Kamarov
         </textPath>
     </text>
 
     <path id="path1">
-        <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
+        <animate id="d1" attributeName="d" begin="d0.end" dur="4000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
     <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#C9D1D9" font-size="32" dominant-baseline="middle" x="0%" text-anchor="start">
         <textPath xlink:href="#path1">
-            I like to create.
+            I don't like loud places.
         </textPath>
     </text>
 
