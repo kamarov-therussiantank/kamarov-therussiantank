@@ -1,3 +1,10 @@
+<a href="https://github.com/asger-finding#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-dark.svg"/>
+</a>
+<a href="https://github.com/asger-finding#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-light.svg"/>
+</a>
+
 ### Hi there 👋
 
 <!--
