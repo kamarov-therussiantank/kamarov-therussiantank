@@ -16,4 +16,4 @@ While I'm not a coding expert (yet!), every day is a new opportunity to learn an
 
 ## Overview
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&border_radius=10&card_width=495)](https://github.com/kamarov-therussiantank/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&border_radius=10&layout=compact&card_width=495&custom_title=In%use%Languages)](https://github.com/kamarov-therussiantank/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&border_radius=10&layout=compact&card_width=495&custom_title=Languages)](https://github.com/kamarov-therussiantank/github-readme-stats)
