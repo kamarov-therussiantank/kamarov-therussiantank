@@ -6,7 +6,7 @@
 </a>
 
 
-Hey there, I'm Kamarov, a Code Enthusiast in the Making!
+Hey there, I'm Kamarov, a Code Enthusiast in the Making! And Ricky is my pet mouse ready for adventure.
 
 Embarking on my coding journey, I'm on a mission to unlock the secrets of programming. While I may not be a coding maestro just yet, I'm passionate about learning and embracing the challenges that come with it.
 
