@@ -11,7 +11,7 @@
 	</style>
 	
     <path id="path0">
-        <animate id="d0" attributeName="d" begin="0s;d1.end" dur="3000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
+        <animate id="d0" attributeName="d" begin="0s;d1.end" dur="5000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
     <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#C9D1D9" font-size="32" dominant-baseline="middle" x="0%" text-anchor="start">
         <textPath xlink:href="#path0">
@@ -20,11 +20,11 @@
     </text>
 
     <path id="path1">
-        <animate id="d1" attributeName="d" begin="d0.end" dur="5500ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
+        <animate id="d1" attributeName="d" begin="d0.end" dur="7000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
     <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#C9D1D9" font-size="32" dominant-baseline="middle" x="0%" text-anchor="start">
         <textPath xlink:href="#path1">
-            Russkiy...idk what -.-  
+            Russkiy...idk what :palmface:  
         </textPath>
     </text>
 
