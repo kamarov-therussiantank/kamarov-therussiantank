@@ -16,7 +16,7 @@ While I'm not a coding expert (yet!), every day is a new opportunity to learn an
 
 ## Account overview
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&border_radius=10&card_width=495&custom_title=My%20Github%20Stats)](https://github.com/kamarov-therussiantank/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&border_radius=10&layout=compact&card_width=495&custom_title=Languages)](https://github.com/kamarov-therussiantank/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&langs_count=10&border_radius=10&layout=compact&card_width=495&custom_title=Languages)](https://github.com/kamarov-therussiantank/github-readme-stats)
 
 <a href="https://github.com/kamarov-therussiantank#animated-text-overview">
   <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-overview.svg"/>
