@@ -1,6 +1,3 @@
-<a href="https://github.com/kamarov-therussiantank#animated-text-dark">
-  <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-dark.svg"/>
-</a>
 <a href="https://github.com/kamarov-therussiantank#animated-text-light">
   <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-light.svg"/>
 </a>
