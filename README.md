@@ -10,7 +10,3 @@ Every new challenge is an opportunity to learn and grow, turning your game into 
 ---
 [![Kamarov's Stats](https://github-readme-stats.vercel.app/api?username=kamarov-therussiantank&theme=transparent&show_icons=true&hide_border=false&border_radius=30&card_width=495&custom_title=My%20Github%20Stats)](https://github.com/kamarov-therussiantank/github-readme-stats)
 [![Kamarov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarov-therussiantank&theme=transparent&show_icons=true&hide_border=false&langs_count=10&border_radius=30&layout=compact&card_width=495&custom_title=Languages)](https://github.com/kamarov-therussiantank/github-readme-stats)
-
-<a href="https://github.com/kamarov-therussiantank#animated-text-overview">
-  <img src="https://raw.githubusercontent.com/kamarov-therussiantank/kamarov-therussiantank/main/animated-text-overview.svg"/>
-</a>
