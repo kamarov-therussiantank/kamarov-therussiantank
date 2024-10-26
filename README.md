@@ -5,8 +5,7 @@
 Hey there, I'm Kamarov, a crazy man that loves to make mods!
 
 Creating mods is a fantastic way to express your creativity and enhance your gaming experience.
-
- Every new challenge is an opportunity to learn and grow, turning your game into a canvas for endless possibilities.
+Every new challenge is an opportunity to learn and grow, turning your game into a canvas for endless possibilities.
 
 ## Account overview
 [![Kamarov's Stats](https://github-readme-stats.vercel.app/api?username=kamarov-therussiantank&theme=dracula&show_icons=true&hide_border=true&border_radius=10&card_width=495&custom_title=My%20Github%20Stats)](https://github.com/kamarov-therussiantank/github-readme-stats)
